@@ -1,0 +1,6 @@
+{
+  "name": "Balaji Enterprises",
+  "description": "Agricultural machinery, borewell submersibles, diesel generators, irrigation pipes, and farm tools catalogue with direct WhatsApp, phone, and shop ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
